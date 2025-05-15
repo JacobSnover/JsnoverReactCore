@@ -1,0 +1,6 @@
+@JsnoverReactCore.Server_HostAddress = http://localhost:5042
+
+GET {{JsnoverReactCore.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
